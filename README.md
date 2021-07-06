@@ -88,9 +88,4 @@
 # [Project 8: Object detection using YOLO v-3 : Project overview](https://github.com/Smit271/YOLO-v3)
 - Created Object detection using yolo v3 in python.
 - Takes image as an input and gives output image of detection object and showing using rectangle of different colors.
-- Useful in detection some rare things because it is efficient.
-- Here is demo.
-- Input image
-<img src = "https://github.com/Smit271/smit-projects/blob/main/images/yolo_example.jpg">
-- Output image
-<img src = "https://github.com/Smit271/smit-projects/blob/main/images/output.png">
+- Useful in detection of some rare things because it is efficient.
