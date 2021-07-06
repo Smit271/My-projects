@@ -68,18 +68,27 @@
 - It will take 2-3 minutes to open as if i deployed it on free PAAS platform.
 - https://image-classifier-using-cnn.herokuapp.com/
 
-# [Project 7: NTraffic sign recognition : Project overview](https://github.com/Smit271/Traffic-Sign-Recognition)
+# [Project 7: Traffic sign recognition : Project overview](https://github.com/Smit271/Traffic-Sign-Recognition)
 - My B.E. 7th sem project 
 - Created Neural networks project using tensorflow framework in python.
 - Dataset taken from Kaggle : [Data](https://www.kaggle.com/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign)
 - Used <b>flask</b> framework to deploy it over web.
 - Deployed over heroku platform.
 - To build the model and train the model I have used python and CNN architecture. To build this website I have used HTML, CSS, JavaScript and Bootstrap framework.
-- 
+
+
 ## Why i took this project?
 - As we all know from now on all things and mechanisms are becoming automatic and the best example of that is <b>Tesla's self driving car</b>. we all know Elon musk and heard about Tesla's self- Driving car. So one out of thousands factor which helps car to drive itself is traffic sign detection and recognition so basically i thought about let's make one part of it so here i made it. Obviously Self driving car has much better model's accurcay and all but here is one intution.
-- <img src = "https://pyimagesearch.com/wp-content/uploads/2019/11/traffic_sign_classification_phases.jpg" alt = "Excuse me">
+<img src = "https://pyimagesearch.com/wp-content/uploads/2019/11/traffic_sign_classification_phases.jpg" alt = "Excuse me">
 
 ## Live web-application link:
 - It will take 2-3 minutes to open as if i deployed it on free PAAS platform.
 - https://traffic-sign-recognition2701.herokuapp.com/
+
+# [Project 8: Object detection using YOLO v-3 : Project overview](https://github.com/Smit271/YOLO-v3)
+- Created Neural networks project using tensorflow framework in python.
+- It takes image from user of forest, street, mountain, sea, glacier and gives classified name with certain accuracy.
+- Used concepts of <i>Convolutional neural network and pooling layers</i> for computer vision problem. 
+- Dataset taken from Kaggle : [Data](https://www.kaggle.com/puneet6060/intel-image-classification)
+- Used <b>flask</b> framework to deploy it over web.
+- Deployed over heroku platform.
