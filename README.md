@@ -1,5 +1,5 @@
-# smit-projects
-All projects in one page 
+# My projects
+### Here you can see my all projects i made since begining of my programming and Machine learning career.
 
 # [Project 1: Amazon Web-scrapper : Project overview](https://github.com/Smit271/Amazon-WebScrapper)
 - Created small project of <b> web-scrapping</b> in python to scrape details of thing which name you enter in terminal from Amazon web site.
@@ -27,3 +27,20 @@ All projects in one page
 - Used <i>Regression supervised learning</i>.
 - Dataset taken from Kaggle : [Data](https://github.com/Smit271/Car-selling-price-prediction/blob/main/data/Car_details_v3.csv)
 - Used <b>flask</b> framework to deploy it over web.
+
+# [Project 4: Multipurpose web-app : Project overview](https://github.com/Smit271/Multipurpose-web-app-using-flask)
+- Created Multipurpose general web-application using different APIs listed below in python.
+- Web-applicaiton home page shows you advice per refresh, time (Used Javascript for this).
+- Then it will show you current weather of city you entered, Movie details of entered movie name, 5 synonyms of the word.
+- You can register to daily 7 AM weather update for multiple cities with email id.
+## Live Project on Intertnet link
+- [http://smit271.pythonanywhere.com/](http://smit271.pythonanywhere.com/)
+
+## Used APIs to create this project
+- I used following APIs to create different functionalities.
+- 1> OpenWeatherAPI for getting weather details from https://api.openweathermap.org/data/2.5/weather
+- 2> NASA_API to get pictures of mars clicked by different rovers (Not included in web-app)
+- 3> OMDB_API to get IMDB Ratings and movie details
+- 4> Advice to print Advice on home screen after refreshing page
+- 5> Datamuse_API to get synonyms of searched word.
+- 6> Flicker_API to get photos url by tag name. (Not included in web-app)
