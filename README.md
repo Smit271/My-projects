@@ -86,9 +86,11 @@
 - https://traffic-sign-recognition2701.herokuapp.com/
 
 # [Project 8: Object detection using YOLO v-3 : Project overview](https://github.com/Smit271/YOLO-v3)
-- Created Neural networks project using tensorflow framework in python.
-- It takes image from user of forest, street, mountain, sea, glacier and gives classified name with certain accuracy.
-- Used concepts of <i>Convolutional neural network and pooling layers</i> for computer vision problem. 
-- Dataset taken from Kaggle : [Data](https://www.kaggle.com/puneet6060/intel-image-classification)
-- Used <b>flask</b> framework to deploy it over web.
-- Deployed over heroku platform.
+- Created Object detection using yolo v3 in python.
+- Takes image as an input and gives output image of detection object and showing using rectangle of different colors.
+- Useful in detection some rare things because it is efficient.
+- Here is demo.
+- Input image
+<img src = "https://github.com/Smit271/YOLO-v3/blob/main/yolo_example.jpg">
+- Output image
+<img src = "https://github.com/Smit271/YOLO-v3/blob/main/output.png">
