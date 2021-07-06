@@ -33,14 +33,53 @@
 - Web-applicaiton home page shows you advice per refresh, time (Used Javascript for this).
 - Then it will show you current weather of city you entered, Movie details of entered movie name, 5 synonyms of the word.
 - You can register to daily 7 AM weather update for multiple cities with email id.
+- Used Flask framework and deployed over [pythonanywhere](https://www.pythonanywhere.com/) platform.
 ## Live Project on Intertnet link
 - [http://smit271.pythonanywhere.com/](http://smit271.pythonanywhere.com/)
 
 ## Used APIs to create this project
 - I used following APIs to create different functionalities.
-- 1> OpenWeatherAPI for getting weather details from https://api.openweathermap.org/data/2.5/weather
+- 1> OpenWeatherAPI for getting weather details. API link : https://api.openweathermap.org/data/2.5/weather
 - 2> NASA_API to get pictures of mars clicked by different rovers (Not included in web-app)
 - 3> OMDB_API to get IMDB Ratings and movie details
 - 4> Advice to print Advice on home screen after refreshing page
 - 5> Datamuse_API to get synonyms of searched word.
 - 6> Flicker_API to get photos url by tag name. (Not included in web-app)
+
+# [Project 5: Online Attendance using face recognition : Project overview](https://github.com/Smit271/Online-Attendance-Using_Face-Recognition)
+- University project created in team of 4 & my contribution was in backend, neural network model building.
+- This project is to overcome our traditional attendance system (Pen-paper) of education.
+- Used Google Facenet neural networks model for embeddings.
+- Added some useful funcitonalities like monthly attendance downloader, student's daily attendance sheet.
+- Students can also view if there attendance are taken or not.
+- Created neural networks model using python, tensorflow framework.
+- Used flask microservice framework for backend of web-application.
+- Here you can see project report : https://drive.google.com/file/d/1Xl2n_8PQjkrgJPSp2YC_A8nq4QY1_1Mb/view?usp=sharing
+
+# [Project 6: Nature's Image classifier : Project overview](https://github.com/Smit271/Image-classifier-using-cnn)
+- Created Neural networks project using tensorflow framework in python.
+- It takes image from user of forest, street, mountain, sea, glacier and gives classified name with certain accuracy.
+- Used concepts of <i>Convolutional neural network and pooling layers</i> for computer vision problem. 
+- Dataset taken from Kaggle : [Data](https://www.kaggle.com/puneet6060/intel-image-classification)
+- Used <b>flask</b> framework to deploy it over web.
+- Deployed over heroku platform.
+
+## Live web-application link:
+- It will take 2-3 minutes to open as if i deployed it on free PAAS platform.
+- https://image-classifier-using-cnn.herokuapp.com/
+
+# [Project 7: NTraffic sign recognition : Project overview](https://github.com/Smit271/Traffic-Sign-Recognition)
+- My B.E. 7th sem project 
+- Created Neural networks project using tensorflow framework in python.
+- Dataset taken from Kaggle : [Data](https://www.kaggle.com/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign)
+- Used <b>flask</b> framework to deploy it over web.
+- Deployed over heroku platform.
+- To build the model and train the model I have used python and CNN architecture. To build this website I have used HTML, CSS, JavaScript and Bootstrap framework.
+- 
+## Why i took this project?
+- As we all know from now on all things and mechanisms are becoming automatic and the best example of that is <b>Tesla's self driving car</b>. we all know Elon musk and heard about Tesla's self- Driving car. So one out of thousands factor which helps car to drive itself is traffic sign detection and recognition so basically i thought about let's make one part of it so here i made it. Obviously Self driving car has much better model's accurcay and all but here is one intution.
+- <img src = "https://pyimagesearch.com/wp-content/uploads/2019/11/traffic_sign_classification_phases.jpg" alt = "Excuse me">
+
+## Live web-application link:
+- It will take 2-3 minutes to open as if i deployed it on free PAAS platform.
+- https://traffic-sign-recognition2701.herokuapp.com/
