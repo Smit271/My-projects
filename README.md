@@ -91,6 +91,6 @@
 - Useful in detection some rare things because it is efficient.
 - Here is demo.
 - Input image
-<img src = "https://github.com/Smit271/smit-projects/images/yolo_example.jpg">
+<img src = "https://github.com/Smit271/smit-projects/blob/main/images/yolo_example.jpg">
 - Output image
-<img src = "https://github.com/Smit271/smit-projects/images/output.png">
+<img src = "https://github.com/Smit271/smit-projects/blob/main/images/output.png">
