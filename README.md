@@ -1,4 +1,4 @@
-# My projects
+# All my project's overview and link to github.
 ### Here you can see my all projects i made since begining of my programming and Machine learning career.
 
 # [Project 1: Amazon Web-scrapper : Project overview](https://github.com/Smit271/Amazon-WebScrapper)
@@ -89,3 +89,13 @@
 - Created Object detection using yolo v3 in python.
 - Takes image as an input and gives output image of detection object and showing using rectangle of different colors.
 - Useful in detection of some rare things because it is efficient.
+
+
+
+<div size='20px'> Hi! My name is Smitkumar Panchal. Thank You for taking the time to view my GitHub Profile :smile: 
+<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="64px"> </h2>
+<a href = 'https://www.linkedin.com/in/smitkumar-panchal-44162b1a0'> <img width = '22px' align= 'left' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
+<a href = 'https://www.twitter.com/SmitPanchal271'> <img width = '22px' align= 'left' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
+<a href = 'https://www.github.com/Smit271'> <img width = '22px' align= 'left' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
+
+</div>
