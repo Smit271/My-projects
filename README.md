@@ -1,5 +1,5 @@
 # All my project's overview and link to github.
-### Here you can see my all projects i made since begining of my programming and Machine learning career.
+### Any feedback will be appriciated.
 
 # [Project 1: Amazon Web-scrapper : Project overview](https://github.com/Smit271/Amazon-WebScrapper)
 - Created small project of <b> web-scrapping</b> in python to scrape details of thing which name you enter in terminal from Amazon web site.
@@ -37,16 +37,17 @@
 ## Live Project on Intertnet link
 - [http://smit271.pythonanywhere.com/](http://smit271.pythonanywhere.com/)
 
-## Used APIs to create this project
-- I used following APIs to create different functionalities.
-- 1> OpenWeatherAPI for getting weather details. API link : https://api.openweathermap.org/data/2.5/weather
-- 2> NASA_API to get pictures of mars clicked by different rovers (Not included in web-app)
-- 3> OMDB_API to get IMDB Ratings and movie details
-- 4> Advice to print Advice on home screen after refreshing page
-- 5> Datamuse_API to get synonyms of searched word.
-- 6> Flicker_API to get photos url by tag name. (Not included in web-app)
+# [Project 5: Chat Plus Android application : Project overview](https://github.com/Smit271/Chat_plus)
+- 7th semester subject project.
+- Android application with login, register and basic chatting features.
+- Worked with Team of 4. Made login and register back-end with extra feature of setting up profile picture.
+- Created project in Android Studio in Java language.
+- Used Firebase to store user's details and chat.
+## Application on Google Play Store
+- [Chat_Plus](https://play.google.com/store/apps/details?id=com.chatplus.login_register)
 
-# [Project 5: Online Attendance using face recognition : Project overview](https://github.com/Smit271/Online-Attendance-Using_Face-Recognition)
+
+# [Project 6: Online Attendance using face recognition : Project overview](https://github.com/Smit271/Online-Attendance-Using_Face-Recognition)
 - University project created in team of 4 & my contribution was in backend, neural network model building.
 - This project is to overcome our traditional attendance system (Pen-paper) of education.
 - Used Google Facenet neural networks model for embeddings.
@@ -56,7 +57,7 @@
 - Used flask microservice framework for backend of web-application.
 - Here you can see project report : https://drive.google.com/file/d/1Xl2n_8PQjkrgJPSp2YC_A8nq4QY1_1Mb/view?usp=sharing
 
-# [Project 6: Nature's Image classifier : Project overview](https://github.com/Smit271/Image-classifier-using-cnn)
+# [Project 7: Nature's Image classifier : Project overview](https://github.com/Smit271/Image-classifier-using-cnn)
 - Created Neural networks project using tensorflow framework in python.
 - It takes image from user of forest, street, mountain, sea, glacier and gives classified name with certain accuracy.
 - Used concepts of <i>Convolutional neural network and pooling layers</i> for computer vision problem. 
@@ -68,7 +69,7 @@
 - It will take 2-3 minutes to open as if i deployed it on free PAAS platform.
 - https://image-classifier-using-cnn.herokuapp.com/
 
-# [Project 7: Traffic sign recognition : Project overview](https://github.com/Smit271/Traffic-Sign-Recognition)
+# [Project 8: Traffic sign recognition : Project overview](https://github.com/Smit271/Traffic-Sign-Recognition)
 - My B.E. 7th sem project 
 - Created Neural networks project using tensorflow framework in python.
 - Dataset taken from Kaggle : [Data](https://www.kaggle.com/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign)
@@ -85,7 +86,7 @@
 - It will take 2-3 minutes to open as if i deployed it on free PAAS platform.
 - https://traffic-sign-recognition2701.herokuapp.com/
 
-# [Project 8: Object detection using YOLO v-3 : Project overview](https://github.com/Smit271/YOLO-v3)
+# [Project 9: Object detection using YOLO v-3 : Project overview](https://github.com/Smit271/YOLO-v3)
 - Created Object detection using yolo v3 in python.
 - Takes image as an input and gives output image of detection object and showing using rectangle of different colors.
 - Useful in detection of some rare things because it is efficient.
