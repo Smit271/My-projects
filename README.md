@@ -91,6 +91,13 @@
 - Takes image as an input and gives output image of detection object and showing using rectangle of different colors.
 - Useful in detection of some rare things because it is efficient.
 
+# [Project 10: Chat Plus : Project overview](https://github.com/Smit271/Chat_plus)
+- University Android project successfully completed.
+- Implemented basic functionalities of login and register with automatic login and added extra features of adding a friend via search with core feature of chatting.
+- Used <b>Android Studio </b>, basic APIs and <b>Firebase Storage</b> for Authentication and storing chats.
+- Also published on Google PlayStore.
+- PlayStore link : [ChatPlus](https://play.google.com/store/apps/details?id=com.chatplus.login_register)
+
 
 
 <div size='26px'> Thank You for taking the time to view my GitHub Profile.
