@@ -37,6 +37,7 @@
 ## Live Project on Intertnet link
 - [http://smit271.pythonanywhere.com/](http://smit271.pythonanywhere.com/)
 
+
 # [Project 5: Chat Plus Android application : Project overview](https://github.com/Smit271/Chat_plus)
 - 7th semester subject project.
 - Android application with login, register and basic chatting features.
@@ -47,7 +48,19 @@
 - [Chat_Plus](https://play.google.com/store/apps/details?id=com.chatplus.login_register)
 
 
-# [Project 6: Online Attendance using face recognition : Project overview](https://github.com/Smit271/Online-Attendance-Using_Face-Recognition)
+# [Project 6: Project Management System : Project overview](https://github.com/Smit271/projects-management-system)
+- Side project while doing internship at Innovexxia.
+- Implemented basic concepts of mysql, python, html, css.
+- Used <b>Django Framework </b>, <b>MYSQL database</b>.
+- Features list :
+1. Can register yourself as Employee or Intern.
+2. User can create project and assign it to multiple workers with one team leader.
+3. Team member can update project details.
+4. Can assign task to particular user with proper description, deadline and user can update status as per task's status/progress.
+5. Overall overview of Internal company's projects with its all usefull details.
+
+
+# [Project 7: Online Attendance using face recognition : Project overview](https://github.com/Smit271/Online-Attendance-Using_Face-Recognition)
 - University project created in team of 4 & my contribution was in backend, neural network model building.
 - This project is to overcome our traditional attendance system (Pen-paper) of education.
 - Used Google Facenet neural networks model for embeddings.
@@ -57,7 +70,7 @@
 - Used flask microservice framework for backend of web-application.
 - Here you can see project report : https://drive.google.com/file/d/1Xl2n_8PQjkrgJPSp2YC_A8nq4QY1_1Mb/view?usp=sharing
 
-# [Project 7: Nature's Image classifier : Project overview](https://github.com/Smit271/Image-classifier-using-cnn)
+# [Project 8: Nature's Image classifier : Project overview](https://github.com/Smit271/Image-classifier-using-cnn)
 - Created Neural networks project using tensorflow framework in python.
 - It takes image from user of forest, street, mountain, sea, glacier and gives classified name with certain accuracy.
 - Used concepts of <i>Convolutional neural network and pooling layers</i> for computer vision problem. 
@@ -69,7 +82,7 @@
 - It will take 2-3 minutes to open as if i deployed it on free PAAS platform.
 - https://image-classifier-using-cnn.herokuapp.com/
 
-# [Project 8: Traffic sign recognition : Project overview](https://github.com/Smit271/Traffic-Sign-Recognition)
+# [Project 9: Traffic sign recognition : Project overview](https://github.com/Smit271/Traffic-Sign-Recognition)
 - My B.E. 7th sem project 
 - Created Neural networks project using tensorflow framework in python.
 - Dataset taken from Kaggle : [Data](https://www.kaggle.com/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign)
@@ -86,17 +99,10 @@
 - It will take 2-3 minutes to open as if i deployed it on free PAAS platform.
 - https://traffic-sign-recognition2701.herokuapp.com/
 
-# [Project 9: Object detection using YOLO v-3 : Project overview](https://github.com/Smit271/YOLO-v3)
+# [Project 10: Object detection using YOLO v-3 : Project overview](https://github.com/Smit271/YOLO-v3)
 - Created Object detection using yolo v3 in python.
 - Takes image as an input and gives output image of detection object and showing using rectangle of different colors.
 - Useful in detection of some rare things because it is efficient.
-
-# [Project 10: Chat Plus : Project overview](https://github.com/Smit271/Chat_plus)
-- University Android project successfully completed.
-- Implemented basic functionalities of login and register with automatic login and added extra features of adding a friend via search with core feature of chatting.
-- Used <b>Android Studio </b>, basic APIs and <b>Firebase Storage</b> for Authentication and storing chats.
-- Also published on Google PlayStore.
-- PlayStore link : [ChatPlus](https://play.google.com/store/apps/details?id=com.chatplus.login_register)
 
 
 
